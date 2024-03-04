@@ -1,10 +1,18 @@
-# [Flappy Bird](https://youtu.be/Xw2MEG-FBsE)
-- Coding Tutorial: [https://youtu.be/jj5ADM2uywg](https://youtu.be/Xw2MEG-FBsE)
+## Getting Started
 
-In this tutorial, you will learn to create the flappy bird game with the built-in java awt/swing graphics library.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Throughout the tutorial, you will learn how to create the game loop, create a jframe and jpanel, draw images on the jpanel, add click handlers to make the flappy bird jump, randomly generate pipes and move them across the screen, detect collisions between the flappy bird and each pipe, and add a running score. 
+## Folder Structure
 
-[How to setup Java with Visual Studio Code](https://youtu.be/BB0gZFpukJU)
+The workspace contains two folders by default, where:
 
-![flappybird-ss](https://github.com/ImKennyYip/flappy-bird-java/assets/78777681/8b445d66-ab36-4d40-a6ac-ad501d41ed32)
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
